@@ -1,5 +1,7 @@
 # Google Classroom Search
 
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-install-670000)](https://greasyfork.org/en/scripts/604099-google-classroom-search)
+
 A [Tampermonkey](https://www.tampermonkey.net/) userscript that adds live search and custom tags to the Google Classroom class list.
 
 ## Features
@@ -13,6 +15,6 @@ Tags are stored in `localStorage`, scoped to `classroom.google.com` — they nev
 ## Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
-2. Install the script: [classroom-search.user.js](https://raw.githubusercontent.com/tomandesMSH/ClassroomSearch/main/classroom-search.user.js) (Tampermonkey will prompt to install it automatically).
+2. Install the script from [Greasy Fork](https://greasyfork.org/en/scripts/604099-google-classroom-search) (recommended), or directly from [classroom-search.user.js](https://raw.githubusercontent.com/tomandesMSH/ClassroomSearch/main/classroom-search.user.js) — either way, Tampermonkey will prompt to install it automatically.
 
-The script auto-updates from this repo, so you don't need to reinstall it after future changes.
+The script auto-updates after install, so you don't need to reinstall it after future changes.
