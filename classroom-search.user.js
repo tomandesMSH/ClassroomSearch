@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         Google Classroom Search
 // @namespace    classroom-search
-// @version      2.1.0
+// @version      2.1.1
 // @description  Adds a live search box to Google Classroom's class list, plus custom tags you assign yourself (with export/import) so you can filter classes by more than just their name.
 // @author       tomandesMSH
 // @match        https://classroom.google.com/*
 // @run-at       document-idle
 // @grant        none
+// @license      MIT
+// @homepageURL  https://github.com/tomandesMSH/ClassroomSearch
+// @supportURL   https://github.com/tomandesMSH/ClassroomSearch/issues
 // @updateURL    https://raw.githubusercontent.com/tomandesMSH/ClassroomSearch/main/classroom-search.user.js
 // @downloadURL  https://raw.githubusercontent.com/tomandesMSH/ClassroomSearch/main/classroom-search.user.js
 // ==/UserScript==
